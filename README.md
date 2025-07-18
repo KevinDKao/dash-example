@@ -2,7 +2,7 @@
 
 A beautiful Python Dash web application featuring glass morphism design, interactive charts, and real-time analytics.
 
-![Uploading image.png…]()
+<img width="1443" height="1896" alt="image" src="https://github.com/user-attachments/assets/66f89f87-c4e3-43f4-9699-12152176752c" />
 
 
 ## Features
