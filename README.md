@@ -2,6 +2,9 @@
 
 A beautiful Python Dash web application featuring glass morphism design, interactive charts, and real-time analytics.
 
+![Uploading image.png…]()
+
+
 ## Features
 - Glass translucent cards with modern styling
 - Cumulative line graphs and data visualizations
